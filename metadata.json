@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI – Your Personal AI Career Mentor",
+  "description": "AI-powered career mentor for college students featuring career advisory, skill-gap analysis, learning roadmaps, resume analysis, and mock interviews.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
